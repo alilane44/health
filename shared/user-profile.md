@@ -19,48 +19,48 @@ confirmation before high-stakes advice.
 
 - **Sex:** Male
 - **Year of birth:** 1986 (update age band as years pass)
-- **Current age band:** ~39–40 (late-thirties into forties)
-- **Units preference:** <metric (kg, cm) | imperial (lb, in)> — set one
-- **Location / applicable guidance:** <e.g. UK / NHS, US / USPSTF> — determines
+- **Current age band:** ~40 (late-thirties into forties)
+- **Units preference:** <metric (kg, cm)
+- **Location / applicable guidance:** <e.g. UK / NHS — determines
   which screening and guideline sources agents should verify against
 
 ## Goals
 
-- **Primary goal:** <e.g. build/retain muscle, improve cardio, fat loss, general health>
-- **Secondary goals:** <…>
-- **Timeframe / review cadence:** <e.g. review every 8–12 weeks>
+- **Primary goal:** build retain muscle, fat loss
+- **Secondary goals:** more energy and focus
+- **Timeframe / review cadence:** review every 8–12 weeks
 
 ## Training background
 
-- **Experience level:** <beginner | intermediate | advanced>
-- **Current weekly activity:** <sessions/week, types>
-- **Equipment access:** <full gym | home kit | bodyweight | specify>
-- **Schedule constraints:** <days/times available, session length>
-- **Preferences / dislikes:** <e.g. enjoys football; dislikes long steady-state runs>
+- **Experience level:** intermediate
+- **Current weekly activity:** 4sessions/week, weights
+- **Equipment access:** home kit | bodyweight
+- **Schedule constraints:** weekdays in the morning, 30 minutes
+- **Preferences / dislikes:** like: weights, running, stretching, building muscle
 
 ## Health context (voluntarily provided)
 
-- **Known conditions:** <or "none reported">
-- **Current medications / supplements:** <or "none reported">
-- **Injury history / current niggles:** <e.g. left knee, lower back>
-- **Family history relevant to risk:** <e.g. cardiovascular, diabetes — optional>
-- **Last preventive check-up / bloods:** <date, or "unknown">
+- **Known conditions:** prone to lower back issues, mild gluten intolerance
+- **Current medications / supplements:** hair loss medication
+- **Injury history / current niggles:** lower back
+- **Family history relevant to risk:** no
+- **Last preventive check-up / bloods:** unknown
 
 ## Nutrition context
 
-- **Dietary pattern / restrictions:** <e.g. omnivore, vegetarian, allergies>
+- **Dietary pattern / restrictions:** mild gluten and dairy intolerance
 - **Cooking / budget constraints:** <…>
 - **Typical protein intake (if known):** <…>
 
 ## Sleep and recovery baseline
 
-- **Typical sleep opportunity:** <hours, regularity>
-- **Caffeine / alcohol pattern:** <…>
-- **Main stressors affecting recovery:** <…>
+- **Typical sleep opportunity:** 8 hours
+- **Caffeine / alcohol pattern:** 2 coffees per day, alcohol once a week
+- **Main stressors affecting recovery:** work stress
 
 ## Wearables / data sources
 
-- **Devices:** <e.g. watch, chest strap, none>
+- **Devices:** samsung watch
 - **Note:** wearable calories, VO2 max, readiness and HR estimates are treated
   as imperfect trend data, not diagnoses.
 
